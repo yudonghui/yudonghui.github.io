@@ -1,2 +1,3 @@
 login_logo:登录页面的logo点击测试登录接口，1 的时候有效
 theme_color:1主页置灰色（悼念）
+check_sign:1需要校验签名
